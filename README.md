@@ -1,7 +1,7 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning
-- 📫 How to reach me
+- 👋 Hi, I’m Christian Berlin 
+- 👀 I’m interested in creating digital worlds and games.
+- 🌱 I’m currently learning c#
+- 📫 How to reach me info@tpgames.de
 
 <!---
 Berlin-Koeln/Berlin-Koeln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
